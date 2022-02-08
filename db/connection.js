@@ -5,9 +5,9 @@ const db = mysql.createConnection(
   {
     host: "localhost",
     // your mysql username
-    user: "root",
+    user: "soundproofboot",
     // your mysql password
-    password: "1Maradiohead!",
+    password: "upicmemberservices",
     database: "election",
   },
   console.log("Connected to the election database.")
